@@ -1,4 +1,4 @@
- 💼 Stock Market Analyst AI-Agent
+ # 💼 Stock Market Analyst AI-Agent
 
 This project is a Stock Market Analyst AI-Agent built using **Groq** and **Phidata**. The application integrates multiple AI agents to provide real-time stock information, analyst recommendations, and market trends. It leverages web search tools, financial data, and various APIs to generate detailed reports and insights.
 
@@ -112,10 +112,10 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 ## Screenshots
 
 ### Running the Application
-![Running App](images/running-app.png)
+![Running App](Capture.png)
 
 ### Sample Query and Response
-![Sample Query](images/sample-query.png)
+![Sample Query](Capture2.png)
 
 ---
 
