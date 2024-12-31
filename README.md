@@ -112,10 +112,10 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 ## Screenshots
 
 ### Running the Application
-![Running App](Capture.png)
+![Running App](Capture.PNG)
 
 ### Sample Query and Response
-![Sample Query](Capture2.png)
+![Sample Query](Capture2.PNG)
 
 ---
 
