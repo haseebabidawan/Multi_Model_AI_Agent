@@ -1,7 +1,8 @@
  # 💼 Stock Market Analyst AI-Agent
  
 This project is a Stock Market Analyst AI-Agent built using **Groq** and **Phidata**. The application integrates multiple AI agents to provide real-time stock information, analyst recommendations, and market trends. It leverages web search tools, financial data, and various APIs to generate detailed reports and insights.
-![]([https://files.oaiusercontent.com/file-EFZeSHE5qHidEVoFym5347?se=2024-12-31T12%3A09%3A54Z&sp=r&sv=2024-08-04&sr=b&rscc=max-age%3D604800%2C%20immutable%2C%20private&rscd=attachment%3B%20filename%3D5f354ac0-1d82-4e5c-baa1-3dfb4e8a9148.webp&sig=1yDumpNCzDWJwzg2osRG2Vtd60KZ0ETRxT/GVLDvbvM%3D](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRKrbqAXGet64nNfhpPjU6zDMB3CoXq89kHNCgqduH8atOGolYHhxPAuf1wyNCtiixKQRc&usqp=CAU))
+
+![](https://media.beehiiv.com/cdn-cgi/image/fit=scale-down,format=auto,onerror=redirect,quality=80/uploads/asset/file/26ef43ce-493f-4330-87cf-4daccb490972/discover-the-power-of-ai-agents-simple-guide-to-building-your-own.png?t=1719990143)
 
 ### Project Overview
 The AI-Agent combines two core functionalities:
